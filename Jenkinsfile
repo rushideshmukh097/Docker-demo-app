@@ -5,6 +5,7 @@ pipeline {
             steps {
                 echo 'building the application'
                 echo 'application built by rushi'
+                echo 'this rushikesh deshmukh'
             }
         }
         stage("test") {
